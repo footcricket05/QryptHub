@@ -1,0 +1,4 @@
+Qiskit - https://qiskit.org/learn/
+
+
+Tutorials - https://www.tutorialspoint.com/the-complete-quantum-computing-course-for-beginners/index.asp?gclid=CjwKCAjwv8qkBhAnEiwAkY-ahouUbapaLuqHi-T5OBnNVvwOOKC45m-v2T6mmXQKjw4PZWVSToV9BhoC6qUQAvD_BwE
