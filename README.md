@@ -26,7 +26,7 @@ Quantum Cryptography leverages the principles of quantum mechanics to ensure sec
    pip install -r requirements.txt
    ```
 
-3. **Explore the Quantum Realm 🚀** {#explore}
+3. **Explore the Quantum Realm** 
    Dive into the code and explore various quantum cryptographic algorithms and techniques. Experiment with the provided examples to deepen your understanding.
 
 ## Contributing 🤝
