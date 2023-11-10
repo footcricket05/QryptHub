@@ -1,4 +1,4 @@
-# QryptHub: Quantum Cryptography Using Python For IBM Quantum Lab 🌌🔐
+# QryptHub: Quantum Cryptography Using Python on IBM Quantum Lab 🌌🔐
 
 Welcome to the QryptHub repository! This project explores the fascinating world of Quantum Cryptography using Python on the IBM Quantum Lab. Feel free to dive in and explore the quantum realm of secure communication!
 
