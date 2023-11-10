@@ -10,7 +10,7 @@ Welcome to the QryptHub repository! This project explores the fascinating world 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Introduction 🌟
 
 Quantum Cryptography leverages the principles of quantum mechanics to ensure secure communication channels. This repository provides Python code implemented on the IBM Quantum Lab, allowing you to experiment with quantum cryptographic concepts.
 
