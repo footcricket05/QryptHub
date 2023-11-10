@@ -18,7 +18,7 @@ Quantum Cryptography leverages the principles of quantum mechanics to ensure sec
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/footcricket05/QuantumCryptography.git
+   git clone https://github.com/footcricket05/QryptHub.git
    ```
 
 2. **Install Dependencies**
