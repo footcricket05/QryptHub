@@ -42,7 +42,7 @@ The QKD simulation follows the BB84 protocol and includes the following steps:
 2. Run the BB84 QKD simulation:
 
     ```bash
-    python "Implementation of BB84 protocol using a Quantum Key Distribution (QKD) setup"
+    python "Implementation of BB84 protocol using a Quantum Key Distribution (QKD) setup.py"
     ```
 
     This will execute the provided Qiskit code, simulate the BB84 QKD process, and display the results.
