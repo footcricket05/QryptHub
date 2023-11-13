@@ -1,4 +1,4 @@
-# Creating Classical Gate 
+# Creating Classical Gate Using Quantum Circuits
 
 This repository contains a quantum circuit implemented using Qiskit, a quantum computing library in Python. The circuit simulates a Toffoli gate, a controlled-controlled-X gate, to mimic the behavior of a classical AND gate.
 
