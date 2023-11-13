@@ -1,4 +1,4 @@
-# Quantum Circuit with Qiskit
+# Basic Quantum Gate Implementation
 
 This repository contains a basic quantum circuit implemented using Qiskit, a quantum computing library in Python. The quantum circuit demonstrates the application of fundamental quantum gates and includes a simulation for measurement results.
 
