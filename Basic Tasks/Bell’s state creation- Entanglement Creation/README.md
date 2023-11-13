@@ -1,4 +1,4 @@
-# Qiskit Quantum Circuit (Bell’s State Creation)
+# Bell’s State Creation- Entanglement Creation
 
 This repository contains a simple quantum circuit implemented using Qiskit, a quantum computing library in Python. The circuit applies a Hadamard gate to the first qubit and a CNOT gate with the first qubit as the control and the second qubit as the target. The measurement results are then simulated, and the counts for each outcome are displayed.
 
