@@ -23,7 +23,7 @@ Quantum Cryptography leverages the principles of quantum mechanics to ensure sec
 
 2. **Install Dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install qiskit
    ```
 
 3. **Explore the Quantum Realm**
